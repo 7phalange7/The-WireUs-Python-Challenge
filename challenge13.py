@@ -14,4 +14,4 @@ while run:
         if event.type == pygame.KEYDOWN:
             run = False
 
-pygame.quit()s
+pygame.quit()
